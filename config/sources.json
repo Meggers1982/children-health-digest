@@ -1,0 +1,460 @@
+{
+  "sources": [
+    { "_section": "=== Children's Health & Advocacy ===" },
+
+    {
+      "name": "Children's Defense Fund",
+      "org": "Children's Defense Fund",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.childrensdefense.org/feed/"
+    },
+    {
+      "name": "American Academy of Pediatrics (AAP)",
+      "org": "American Academy of Pediatrics",
+      "category": "Clinical & Research",
+      "feed_url": "https://publications.aap.org/pediatrics/rss/site_1/1.xml"
+    },
+    {
+      "name": "AAP News",
+      "org": "American Academy of Pediatrics",
+      "category": "Clinical & Research",
+      "feed_url": "https://publications.aap.org/aapnews/rss/site_3/3.xml"
+    },
+    {
+      "name": "Children's Hospital Association",
+      "org": "Children's Hospital Association",
+      "category": "Hospital Systems",
+      "feed_url": "https://www.childrenshospitals.org/news/rss"
+    },
+    {
+      "name": "First Focus on Children",
+      "org": "First Focus on Children",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://firstfocus.org/feed"
+    },
+    {
+      "name": "Child Welfare League of America",
+      "org": "Child Welfare League of America",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.cwla.org/feed/"
+    },
+    {
+      "name": "Kids in Need of Defense (KIND)",
+      "org": "Kids in Need of Defense",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://supportkind.org/feed/"
+    },
+    {
+      "name": "March of Dimes",
+      "org": "March of Dimes",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.marchofdimes.org/rss.xml"
+    },
+    {
+      "name": "March of Dimes PR Newswire",
+      "org": "March of Dimes",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.prnewswire.com/rss/news-releases-list.rss?company=march-of-dimes",
+      "source_filter": ["March of Dimes", "marchofdimes.org"]
+    },
+    {
+      "name": "Save the Children USA",
+      "org": "Save the Children",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.savethechildren.org/us/about-us/media-and-news/news-releases.rss"
+    },
+    {
+      "name": "UNICEF USA",
+      "org": "UNICEF USA",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.unicefusa.org/press/feed"
+    },
+    {
+      "name": "Georgetown Center for Children and Families (CCF)",
+      "org": "Georgetown University Center for Children and Families",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://ccf.georgetown.edu/feed/"
+    },
+    {
+      "name": "Children Now",
+      "org": "Children Now",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.childrennow.org/feed/"
+    },
+    {
+      "name": "National Head Start Association",
+      "org": "National Head Start Association",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.nhsa.org/feed/"
+    },
+    {
+      "name": "Family Voices",
+      "org": "Family Voices",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://familyvoices.org/feed/"
+    },
+    {
+      "name": "National Institute for Children's Health Quality (NICHQ)",
+      "org": "NICHQ",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.nichq.org/rss.xml"
+    },
+
+    { "_section": "=== Government & Policy ===" },
+
+    {
+      "name": "CMS Children's Health",
+      "org": "Centers for Medicare & Medicaid Services",
+      "category": "Government & Policy",
+      "feed_url": "https://www.cms.gov/newsroom/rss/newsroom-feed"
+    },
+    {
+      "name": "HRSA Maternal & Child Health",
+      "org": "HRSA",
+      "category": "Government & Policy",
+      "feed_url": "https://www.hrsa.gov/rss/newsroom.xml"
+    },
+    {
+      "name": "CDC Children's Health",
+      "org": "Centers for Disease Control and Prevention",
+      "category": "Government & Policy",
+      "feed_url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss"
+    },
+    {
+      "name": "NIH Child Health (NICHD)",
+      "org": "NICHD / NIH",
+      "category": "Government & Policy",
+      "feed_url": "https://www.nichd.nih.gov/rss/news"
+    },
+    {
+      "name": "HHS News",
+      "org": "U.S. Department of Health & Human Services",
+      "category": "Government & Policy",
+      "feed_url": "https://www.hhs.gov/rss/news.xml"
+    },
+
+    { "_section": "=== NICU & Perinatal ===" },
+
+    {
+      "name": "National Perinatal Association",
+      "org": "National Perinatal Association",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.nationalperinatal.org/feed"
+    },
+    {
+      "name": "Preemie Parent Alliance",
+      "org": "Preemie Parent Alliance",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://preemieparentalliance.org/feed/"
+    },
+    {
+      "name": "Graham's Foundation",
+      "org": "Graham's Foundation",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://grahamsfoundation.org/feed/"
+    },
+    {
+      "name": "Society for Maternal-Fetal Medicine",
+      "org": "Society for Maternal-Fetal Medicine",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.smfm.org/news/rss"
+    },
+    {
+      "name": "Hand to Hold",
+      "org": "Hand to Hold",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://handtohold.org/feed/"
+    },
+
+    { "_section": "=== Childhood Cancer ===" },
+
+    {
+      "name": "American Childhood Cancer Organization",
+      "org": "American Childhood Cancer Organization",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.acco.org/feed/"
+    },
+    {
+      "name": "Alex's Lemonade Stand Foundation",
+      "org": "Alex's Lemonade Stand Foundation",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.alexslemonade.org/feed"
+    },
+    {
+      "name": "Children's Oncology Group",
+      "org": "Children's Oncology Group",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.childrensoncologygroup.org/index.php/feed"
+    },
+    {
+      "name": "St. Baldrick's Foundation",
+      "org": "St. Baldrick's Foundation",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.stbaldricks.org/feed"
+    },
+    {
+      "name": "National Children's Cancer Society",
+      "org": "National Children's Cancer Society",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://thenccs.org/feed/"
+    },
+    {
+      "name": "CureSearch for Children's Cancer",
+      "org": "CureSearch",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://curesearch.org/feed/"
+    },
+    {
+      "name": "Pediatric Brain Tumor Foundation",
+      "org": "Pediatric Brain Tumor Foundation",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.pbtfus.org/feed/"
+    },
+
+    { "_section": "=== Autism & Neurodevelopmental ===" },
+
+    {
+      "name": "Autism Society of America",
+      "org": "Autism Society of America",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://autismsociety.org/feed/"
+    },
+    {
+      "name": "Autism Speaks",
+      "org": "Autism Speaks",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.autismspeaks.org/rss.xml"
+    },
+    {
+      "name": "Autism Science Foundation",
+      "org": "Autism Science Foundation",
+      "category": "Clinical & Research",
+      "feed_url": "https://autismsciencefoundation.org/feed/"
+    },
+    {
+      "name": "CHADD (ADHD)",
+      "org": "CHADD",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://chadd.org/feed/"
+    },
+    {
+      "name": "National Down Syndrome Society",
+      "org": "National Down Syndrome Society",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.ndss.org/feed/"
+    },
+    {
+      "name": "SPARK for Autism (Simons Foundation)",
+      "org": "SPARK for Autism",
+      "category": "Clinical & Research",
+      "feed_url": "https://sparkforautism.org/feed/"
+    },
+    {
+      "name": "National Down Syndrome Congress",
+      "org": "National Down Syndrome Congress",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.ndsccenter.org/feed/"
+    },
+    {
+      "name": "Muscular Dystrophy Association",
+      "org": "Muscular Dystrophy Association",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.mda.org/feed/"
+    },
+
+    { "_section": "=== Rare & Genetic Conditions ===" },
+
+    {
+      "name": "FRAXA Research Foundation (Fragile X)",
+      "org": "FRAXA Research Foundation",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.fraxa.org/feed/"
+    },
+    {
+      "name": "Angelman Syndrome Foundation",
+      "org": "Angelman Syndrome Foundation",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.angelman.org/feed/"
+    },
+
+    { "_section": "=== Pediatric Allergy, Asthma & Safety ===" },
+
+    {
+      "name": "Asthma and Allergy Foundation of America",
+      "org": "Asthma and Allergy Foundation of America",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.aafa.org/feed/"
+    },
+    {
+      "name": "Safe Kids Worldwide",
+      "org": "Safe Kids Worldwide",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.safekids.org/feed"
+    },
+    {
+      "name": "Food Allergy Research & Education (FARE)",
+      "org": "FARE",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.foodallergy.org/feed"
+    },
+
+    { "_section": "=== Child Mental Health & Safety ===" },
+
+    {
+      "name": "Child Mind Institute",
+      "org": "Child Mind Institute",
+      "category": "Clinical & Research",
+      "feed_url": "https://childmind.org/feed/"
+    },
+    {
+      "name": "The Trevor Project",
+      "org": "The Trevor Project",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.thetrevorproject.org/feed/"
+    },
+    {
+      "name": "Childhelp",
+      "org": "Childhelp",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.childhelp.org/feed/"
+    },
+    {
+      "name": "Prevent Child Abuse America",
+      "org": "Prevent Child Abuse America",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://preventchildabuse.org/feed/"
+    },
+
+    { "_section": "=== School Health & Food Security ===" },
+
+    {
+      "name": "Action for Healthy Kids",
+      "org": "Action for Healthy Kids",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.actionforhealthykids.org/feed/"
+    },
+    {
+      "name": "Alliance for a Healthier Generation",
+      "org": "Alliance for a Healthier Generation",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.healthiergeneration.org/feed/"
+    },
+    {
+      "name": "No Kid Hungry",
+      "org": "No Kid Hungry / Share Our Strength",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.nokidhungry.org/feed/"
+    },
+    {
+      "name": "National WIC Association",
+      "org": "National WIC Association",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.nwica.org/feed/"
+    },
+
+    { "_section": "=== Child & Family Research ===" },
+
+    {
+      "name": "Child Trends",
+      "org": "Child Trends",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.childtrends.org/feed"
+    },
+    {
+      "name": "Annie E. Casey Foundation",
+      "org": "Annie E. Casey Foundation",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.aecf.org/blog/feed"
+    },
+    {
+      "name": "Robert Wood Johnson Foundation (Children's Health)",
+      "org": "Robert Wood Johnson Foundation",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.rwjf.org/en/insights/blog.rss.xml"
+    },
+    {
+      "name": "KFF Children's Health",
+      "org": "KFF",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.kff.org/feed/"
+    },
+    {
+      "name": "Zero to Three",
+      "org": "Zero to Three",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.zerotothree.org/feed/"
+    },
+    {
+      "name": "Brookings Children's Policy",
+      "org": "Brookings Institution",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.brookings.edu/topic/children-families/feed/"
+    },
+    {
+      "name": "Society for Research on Child Development (SRCD)",
+      "org": "Society for Research on Child Development",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.srcd.org/feed/"
+    },
+    {
+      "name": "Chapin Hall (University of Chicago)",
+      "org": "Chapin Hall",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.chapinhall.org/feed/"
+    },
+    {
+      "name": "National Center for Children in Poverty (NCCP)",
+      "org": "National Center for Children in Poverty",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.nccp.org/rss/"
+    },
+    {
+      "name": "PolicyLab at Children's Hospital of Philadelphia",
+      "org": "PolicyLab at CHOP",
+      "category": "Clinical & Research",
+      "feed_url": "https://policylab.chop.edu/rss"
+    },
+    {
+      "name": "Center for the Study of Social Policy (CSSP)",
+      "org": "Center for the Study of Social Policy",
+      "category": "Clinical & Research",
+      "feed_url": "https://cssp.org/feed/"
+    },
+    {
+      "name": "Child Welfare Information Gateway (HHS)",
+      "org": "Child Welfare Information Gateway",
+      "category": "Government & Policy",
+      "feed_url": "https://www.childwelfare.gov/rss/"
+    },
+
+    { "_section": "=== Health Policy & Funders ===" },
+
+    {
+      "name": "W.K. Kellogg Foundation",
+      "org": "W.K. Kellogg Foundation",
+      "category": "Clinical & Research",
+      "feed_url": "https://www.wkkf.org/rss/"
+    },
+    {
+      "name": "Center for Law and Social Policy (CLASP)",
+      "org": "CLASP",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.clasp.org/feed/"
+    },
+
+    { "_section": "=== Youth Substance Use Prevention ===" },
+
+    {
+      "name": "Partnership to End Addiction",
+      "org": "Partnership to End Addiction",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://drugfree.org/feed/"
+    },
+    {
+      "name": "Community Anti-Drug Coalitions of America (CADCA)",
+      "org": "CADCA",
+      "category": "Advocacy & Nonprofits",
+      "feed_url": "https://www.cadca.org/feed/"
+    }
+  ]
+}
