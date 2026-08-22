@@ -46,7 +46,7 @@ def main() -> None:
     days_back = config.get("days_back", 2)
     max_per_source = config.get("max_items_per_source", 20)
     min_items = config.get("min_items_to_send", 1)
-    to_email = config.get("to_email", "")
+    to_email = os.environ.get("TO_EMAIL", "") or config.get("to_email", "")
     from_email = config.get("from_email", "Children's Health Digest <onboarding@resend.dev>")
     model = config.get("model", "claude-opus-4-5")
 

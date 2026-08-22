@@ -10,7 +10,7 @@
   "min_items_to_send": 1,
   "_min_items_comment": "If fewer than this many articles are found across all sources, skip the email for that run.",
 
-  "to_email": "meagan.lea.morris@gmail.com",
+  "_to_email_comment": "Recipient address is set via the TO_EMAIL repo secret, not here.",
   "from_email": "Children's Health Digest <onboarding@resend.dev>",
 
   "_model_comment": "Claude model used for digest generation.",
