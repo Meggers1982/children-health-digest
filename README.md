@@ -6,7 +6,7 @@ summarize the noteworthy ones, writes the result to `outputs/`, and emails it.
 
 ## How it works
 
-`.github/workflows/daily-digest.yml` runs `scripts/main.py` at 08:00 UTC on
+`.github/workflows/daily-digest.yml` runs `scripts/main.py` at 10:00 UTC on
 weekdays. Each run:
 
 1. **Fetches** (`fetcher.py`) recent items from the feeds in
